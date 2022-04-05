@@ -44,7 +44,7 @@ If you use this library for academic work, please either cite the library or a c
 <details>
 <summary>Accompanying Paper</summary>
 
-* Haggag, Karim, Sven Lange, Tim Pfeifer, and Peter Protzel (2022) 'A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar’. (to appear in IEEE Robotics and Automation Letters)
+* Haggag, Karim, Sven Lange, Tim Pfeifer, and Peter Protzel (2022) 'A Credible and Robust approach to Ego-Motion Estimation using an Automotive Radar’. [DOI: 10.1109/LRA.2022.3162644](https://dx.doi.org/10.1109/LRA.2022.3162644) (early access, to appear in IEEE Robotics and Automation Letters)
 
 </details>
 
