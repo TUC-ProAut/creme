@@ -4,7 +4,7 @@ classdef NuScenes < handle
 %   to use it through Matlab's External Language Interface.
 %
 %   See also NUSCENESCHECK.
-
+%
 % @author Sven Lange (TU Chemnitz, ET/IT, Prozessautomatisierung)
 % @author Karim Haggag (TU Chemnitz, ET/IT, Prozessautomatisierung)
 
