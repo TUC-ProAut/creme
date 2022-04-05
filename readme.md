@@ -1,7 +1,10 @@
 # Credible Radar Ego-Motion Estimation (creme)
-
 Currently, creme is implementing various evaluation scenarios described within the corresponding publication; see "Citation" below and our [project's landing page](https://mytuc.org/creme).
 The provided source code depends on the [libMix4SAM](https://github.com/TUC-ProAut/libmix4sam) library, which itself extends the functionality of GTSAM [1].
+
+<p align="center">
+<img src="img/creme.gif" alt="Visualization of a Simple 1D Scenario">
+</p>
 
 ## Contact information
 - [Sven Lange](https://www.tu-chemnitz.de/etit/proaut/sven_lange)
